@@ -40,5 +40,5 @@ git push -u <repository> <refspec> -->使用push命令(提交檔案到遠端)，
 
 git clone <repository> <directory> -->使用clone命令來複製遠端數據庫,<repository>指定遠端數據庫的URL，<directory>指定要複製的目錄名稱。
 
-
+git pull <repository> <refspec> -->使用Pull(拉取)從遠端數據庫以更新本地端數據庫
 
