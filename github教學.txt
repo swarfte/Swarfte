@@ -1,24 +1,44 @@
 前置:
 C:\Program Files\Git\bin
+
 C:\Program Files\Git\mingw64\libexec\git-core
+
 把安裝 Git 的地方加入系統變數path中
-git config --global user.name "<使用者名字>"-->登入git
+
+git config --global user.name "<使用者名字>"-->懶人設定
+
 git config --global user.email "<電子信箱>"-->同上
+
 git config --global alias.co xxx -->為Git的命令設定別名，例如：「checkout」可以省略為「co」來執行。(xxx為checkout)
+
+
 
 指令:
 git config --global color.ui auto-->設定Git的輸出(output)結果的顏色。
+
 git init -->使用init命令移動到這個目錄並將目錄建立為本地端數據庫
+
 mkdir xxx -->創建一個檔案夾
+
 cd xxx -->移動到xxx檔案夾
+
 git status -->在Git管理之下的目錄，可以使用status命令確認工作目錄與索引的狀態喔
+
 git add <file> -->將檔案加入到索引，<file>是指向要加入索引的檔案 ,若要指向多個檔案，可用空白鍵將檔案們分開。
+
 git add . -->使用「.」，表示可以把當前目錄下所有的檔案加入到索引。
+
 git commit -m "<提交訊息>" -->提交檔案,同時寫下提交信息
+
 git log -->使用log命令來顯示數據庫的歷史提交記錄。
+
 git remote add <name> <url> -->使用remote命令增加一個遠端數據庫。<name>指向遠端數據庫登錄名稱、<url>指向遠端數據庫的URL
 #在主控台，執行push或pull命令時想省略遠端數據庫名稱的話，會使用origin名稱作為遠端數據庫。因此一般都會為遠端數據庫命名為origin。
+
 git push -u <repository> <refspec> -->使用push命令(提交檔案到遠端)，加上<repository>指定要push的地址，<refspec>指定要push的分支(若分支不存在,則創建一個),預設的分支為main
 #push執行提交時指定參數 -u 項目,之後就可省略指定分支名稱(遠端數據庫不為空白時)。例子:git push -u origin master
+
+git clone <repository> <directory> -->使用clone命令來複製遠端數據庫,<repository>指定遠端數據庫的URL，<directory>指定要複製的目錄名稱。
+
 
 
