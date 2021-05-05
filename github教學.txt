@@ -1,3 +1,6 @@
+#===================================================================
+#適用於主控台(git bash 或 vscode)
+
 前置:
 C:\Program Files\Git\bin
 
@@ -42,3 +45,15 @@ git clone <repository> <directory> -->使用clone命令來複製遠端數據庫,
 
 git pull <repository> <refspec> -->使用Pull(拉取)從遠端數據庫以更新本地端數據庫
 
+#=========================================================================
+#適用於windows 系統 (利用TortoiseGit)
+
+前置:
+http://code.google.com/p/tortoisegit/ -->TortoiseGit的下載,下載主程式和語言包(中文)
+
+http://msysgit.github.io/ --> git的下載
+
+設置中文:
+在「General」頁面的「Language」裡選擇中文然後點擊「OK」。
+
+操作:
