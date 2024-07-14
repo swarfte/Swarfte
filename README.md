@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm **Swarfte**, a versatile full-stack developer specializing in:
+I'm **Benjamin Chau**, a versatile full-stack developer specializing in:
 
 - **Vue 3** and **Nuxt 3** for dynamic frontend development
 - **Express.js** for backend API development
