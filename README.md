@@ -1,16 +1,13 @@
-# Casual players who focus on writing bugs every day🤔
+# 👋 Hi there!
 
-<!--
-**swarfte/Swarfte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Swarfte**, a versatile full-stack developer specializing in:
 
-Here are some ideas to get you started:
+- **Vue 3** and **Nuxt 3** for dynamic frontend development
+- **Express.js** for backend API development
+- **Vuetify** for building beautiful and responsive UIs
+- **Python** for robust backend solutions
+- Familiar with **Java** and **C**
+- Proficient in **Linux** environments like **Ubuntu** and **Manjaro**
+- Experienced in **MySQL** for efficient database management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about clean code and problem-solving, I'm dedicated to crafting user-centric experiences while continually enhancing my skills in the evolving tech landscape.
