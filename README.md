@@ -9,12 +9,12 @@ I'm **Benjamin Chau**, a dedicated full-stack software engineer with a passion f
   - Additionally serving as **QA Engineer**, leading User Acceptance Testing (UAT) to ensure seamless user experiences and high-quality deliverables.
 
 ## Core Specializations
-- **Full-Stack Frameworks**: Next.js, Nuxt.js for modern web applications.
-- **Backend Technologies**: Django, Express.js, ASP.NET Core for secure and performant APIs.
-- **UI/UX Styling**: Vuetify, Tailwind CSS for responsive and visually appealing designs.
-- **Languages**: Proficient in Typescript, Python, C# and Java; comfortable with scripting and automation.
-- **Databases**: Experienced with MySQL, PostgreSQL, and SQL Server for optimized data handling.
-- **DevOps & Environments**: Skilled in Linux distributions like Ubuntu and Manjaro for development and deployment workflows.
+- **Full-Stack Frameworks**: **Next.js**, **Nuxt.js** for modern web applications.
+- **Backend Technologies**: **Django**, **Express.js**, **ASP.NET Cor**e for secure and performant APIs.
+- **UI/UX Styling**: **Vuetify**, **Tailwind CSS** for responsive and visually appealing designs.
+- **Languages**: Proficient in **Typescript**, **Python**, **C#** and **Java**; comfortable with scripting and automation.
+- **Databases**: Experienced with **MySQL**, **PostgreSQL**, and **SQL Server** for optimized data handling.
+- **DevOps & Environments**: Skilled in Linux distributions like **Ubuntu** and** Manjaro** for development and deployment workflows.
 
 ## About Me
 Passionate about writing clean, maintainable code and solving complex problems, I thrive on creating user-centric applications that drive real-world impact. I'm always eager to collaborate, learn emerging technologies, and contribute to open-source projects. Let's connect to build something innovative!
